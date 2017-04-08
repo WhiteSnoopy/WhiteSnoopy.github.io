@@ -1,6 +1,7 @@
 ---
 title: Hexo主题更换
 date: 2016-12-20 10:11:15
+categories: [Hexo]
 ---
 
 

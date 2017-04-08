@@ -2,6 +2,7 @@
 ---
 title: Hexo+Github搭建博客
 date: 2016-12-18 22:11:44
+categories: [Hexo]
 ---
 
 ## 前言
